@@ -5,6 +5,12 @@
 - Dissertation: *Charles H. Cooley and the Communicative Structure of Human Life*. It covers the foundations of political theory and the social sciences, approached from an evolutionary-anthropological perspective, through early 20th-century American sociologists.
 - Written originally in Spanish, drawing mostly on English-language bibliography.
 
+## Target journals and readers
+- Articles aimed at journals in classical sociology, philosophy of science, communication theory, behavioral sciences and political philosophy.
+- First target journal: *Philosophy of the Social Sciences*.
+- Strongest opponents: (1) social scientists reluctant to accept contributions from the life sciences; (2) followers of G. H. Mead (Mead wrote an obituary of Cooley that damaged his reputation).
+- Biggest fear: being accused of excessive ambition, i.e., proposing a fundamental paradigm shift in the social sciences from the conceptual base of the dissertation.
+
 ## Life outside work
 - Lives alone and organizes my own time freely.
 - Wakes between 5 and 7 a.m.
