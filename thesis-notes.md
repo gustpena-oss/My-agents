@@ -18,3 +18,10 @@ Source: *Charles H. Cooley y la estructura comunicativa de la vida humana* (Univ
 - Part II rests mostly on secondary sources (Cela-Conde and Ayala, Turbón, Jordana, Artigas and Turbón).
 - Cooley-Tomasello comparison: others already compare Tomasello and Mead (Nungesser, Cahoone, McVeigh, Puddephatt); the thesis cites them.
 - Unverified: Mead 1930 is listed in the Picasso draft as AJS 15; check the volume.
+
+## Article plan decisions (2026-10-07)
+- Source: author's rough draft `Artículos_post_tesis` (5 main articles + 8 other ideas). Journal scopes, word limits and formats are NOT yet verified.
+- Proposed order (not yet confirmed by author): 1) Article 2, Cooley vs. Mead (Journal of Classical Sociology); 2) Article 3, core for communication theory (Communication Theory); 3) Article 5, Cooley + Tomasello (venue to be rethought); 4) Article 1, paradigm change (Philosophy of the Social Sciences), last, citing 2 and 3.
+- Known problem: the "Ángulo C" paragraph (flowchart / "leyes de la sociabilidad humana" / vocabulary) is repeated verbatim in Articles 2, 3 and 5; Articles 1 and 3 share Angle B. Each article needs its own distinct claim.
+- Girl Before a Mirror essay (Picasso): parked. Author chose to keep to the journal series for now (museum track, Tate/MoMA, not pursued).
+- Open question: what the first published article must do for the author (fast acceptance, name in Cooley studies, job, test of paradigm claim). Unanswered.
